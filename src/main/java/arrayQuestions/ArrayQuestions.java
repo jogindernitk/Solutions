@@ -1,7 +1,9 @@
 package arrayQuestions;
 
 import java.util.BitSet;
-
+/**
+ * Contain solutioons for some standard Array related questions
+ */
 public class ArrayQuestions {
     public static void main(String[] args) {
         System.out.println("Testing...");
